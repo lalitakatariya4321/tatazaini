@@ -1,6 +1,6 @@
 <?php
 
-$genreName = "Munda-ZaiNi"; // for m3u category
+$genreName = "MundaZaiNi"; // for m3u category
 $userAgent = 'Mozilla/5.0';
 
 $serverAddress = $_SERVER['HTTP_HOST'] ?? 'default.server.address';
